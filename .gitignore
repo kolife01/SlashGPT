@@ -11,3 +11,5 @@ output/
 # Python
 .ipynb_checkpoints/
 *.ipynb
+
+myenv/
